@@ -9,3 +9,19 @@ index 3624333..d76340c 100644
 +   printf("hello github\n");
     return 0;
  }
+diff --git a/prog1.diff b/prog1.diff
+index cd89f03..e69de29 100644
+--- a/prog1.diff
++++ b/prog1.diff
+@@ -1,11 +0,0 @@
+-diff --git a/prog1.c b/prog1.c
+-index 3624333..d76340c 100644
+---- a/prog1.c
+-+++ b/prog1.c
+-@@ -2,5 +2,6 @@
+- int main()
+- {
+-    printf("\nhello world\n");
+-+   printf("hello github\n");
+-    return 0;
+- }
